@@ -12,9 +12,9 @@
 ---
 
 ### 🔗 Συνδεθείτε μαζί μας
-* **Blog:** [https://uniquetech-robotics.blogspot.com/]
-* **Instagram:** [https://www.instagram.com/uniquetech26/]
-* **YouTube:** [https://www.youtube.com/@UniqueTech-RoboticsTeam]
+* **Blog:** https://uniquetech-robotics.blogspot.com/
+* **Instagram:** https://www.instagram.com/uniquetech26/
+* **YouTube:** https://www.youtube.com/@UniqueTech-RoboticsTeam
 
 ---
 *© 2026 Unique Tech Blog - Robotics & AI Innovation*
